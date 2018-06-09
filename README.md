@@ -17,7 +17,7 @@
 
 
 #### DEMO
-> http://letter.tomxin.cn/gift.html?nickname=%E4%BD%A0%E7%9A%84%E5%AE%9D%E8%B4%9D&name=%E5%B0%8F%E9%99%88%E9%99%88&birthday=1995-01-01
+> http://letter.geng.cn/gift.html?nickname=%E4%BD%A0%E7%9A%84%E5%AE%9D%E8%B4%9D&name=%E5%B0%8F%E9%99%88%E9%99%88&birthday=1995-01-01
 
 #### 使用教程
 > 生成专属链接：http://letter.tomxin.cn/
